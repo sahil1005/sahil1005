@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil1005&label=Profile%20views&color=0e75b6&style=flat" alt="sahil1005" /> </p>
 
+- 🔭 **DevOps Engineer**
+
+- 🌱 **Delivering Continuous Integration**
+
 - 👨‍💻 Teach Geek [https://github.com/sahil1005](https://github.com/sahil1005)
 
 <h3 align="left">Connect with me:</h3>
