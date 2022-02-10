@@ -1,4 +1,4 @@
-<h1 align="center">Privet 👋, I'm Sahil Bhonde</h1>
+<h1 align="center">Hola 👋, I'm Sahil Bhonde</h1>
 <h3 align="center">Devs are from Venus, Ops are from Mars</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil1005&label=Profile%20views&color=0e75b6&style=flat" alt="sahil1005" /> </p>
