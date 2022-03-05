@@ -20,8 +20,8 @@
 
 <p align="center">
   <a target="blank"href="https://github.com/lkotlarenko#user-activity-overview">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkotlarenko&theme=dark&hide_langs_below=1" height="220" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lkotlarenko&show_icons=true&theme=dark&locale=en" alt="lkotlarenko" height="220" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil1005&theme=dark&hide_langs_below=1" height="220" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil1005&show_icons=true&theme=dark&locale=en" alt="lkotlarenko" height="220" />
   </a>
 </p>
  
