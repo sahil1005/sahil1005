@@ -51,4 +51,4 @@ Spotify Now Playing Card https://github.com/novatorem/novatorem -->
 
    </a> 
 
-/p>
+</p>
