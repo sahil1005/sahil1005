@@ -23,3 +23,30 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil1005&show_icons=true&locale=en" alt="sahil1005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil1005&" alt="sahil1005" /></p>
+ 
+
+ <!-- Spotify Now Playing Card https://github.com/novatorem/novatorem --> 
+
+ <p align="center"> 
+
+   <a href="https://open.spotify.com/user/lkotlarenko" target="blank"> 
+
+     <img src="https://spotify-now-playing-lkotlarenko.vercel.app/api/spotify" alt="spotify lkotlarenko"/> 
+
+   </a> 
+
+ </p> 
+
+  
+
+ <!-- Snake contributions graph https://github.com/Platane/snk --> 
+
+ <p align="center"> 
+
+   <a href="https://github.com/lkotlarenko#user-activity-overview" target="blank"> 
+
+     <img src="https://github.com/lkotlarenko/lkotlarenko/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/> 
+
+   </a> 
+
+ </p>
