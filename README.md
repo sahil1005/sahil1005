@@ -40,8 +40,7 @@ Spotify Now Playing Card https://github.com/novatorem/novatorem -->
 </p> 
 
   
-
- <!-- Snake contributions graph https://github.com/Platane/snk --> 
+ 
 
 <p align="center"> 
 
@@ -52,3 +51,14 @@ Spotify Now Playing Card https://github.com/novatorem/novatorem -->
    </a> 
 
 </p>
+
+
+
+
+
+
+
+
+  
+
+
