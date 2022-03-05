@@ -25,23 +25,25 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil1005&" alt="sahil1005" /></p>
  
 
- <!-- Spotify Now Playing Card https://github.com/novatorem/novatorem --> 
+ <!-- 
 
- <p align="center"> 
+Spotify Now Playing Card https://github.com/novatorem/novatorem --> 
 
-   <a href="https://open.spotify.com/user/lkotlarenko" target="blank"> 
+<p align="center"> 
 
-     <img src="https://spotify-now-playing-lkotlarenko.vercel.app/api/spotify" alt="spotify lkotlarenko"/> 
+  <a href="https://open.spotify.com/user/lkotlarenko" target="blank"> 
+
+   <img src="https://spotify-now-playing-lkotlarenko.vercel.app/api/spotify" alt="spotify lkotlarenko"/> 
 
    </a> 
 
- </p> 
+</p> 
 
   
 
  <!-- Snake contributions graph https://github.com/Platane/snk --> 
 
- <p align="center"> 
+<p align="center"> 
 
    <a href="https://github.com/lkotlarenko#user-activity-overview" target="blank"> 
 
@@ -49,4 +51,4 @@
 
    </a> 
 
- </p>
+/p>
