@@ -7,7 +7,7 @@
 
 - 🌱 **Delivering Continuous Integration**
 
-- 👨‍💻 Teach Geek [https://github.com/sahil1005](https://github.com/sahil1005)
+- 👨‍💻 Teach Geek [link](https://github.com/sahil1005)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
