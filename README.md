@@ -41,15 +41,7 @@ Spotify Now Playing Card https://github.com/novatorem/novatorem -->
   
  
 
-<p align="center"> 
 
-<a href="https://github.com/sahil1005?tab=overview" target="blank"> 
-
-<img src="https://github.com/lkotlarenko/lkotlarenko/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/> 
-
-</a> 
-
-</p>
 
 
 
